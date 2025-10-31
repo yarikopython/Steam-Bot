@@ -1,6 +1,6 @@
 
 
-** IMPORTANT NOTE **
+**IMPORTANT NOTE**
 
 Please create .env file and put these into the file:
 
