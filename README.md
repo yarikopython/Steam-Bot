@@ -37,7 +37,7 @@ Freeze requirements:
 pip freeze > requirements.txt
 ```
 
-run main.py:
+Run main.py:
 
 ```
 python main.py (Windows)
